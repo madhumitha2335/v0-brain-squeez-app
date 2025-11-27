@@ -1,0 +1,58 @@
+export const subjects = [
+  {
+    id: "maths",
+    name: "Mathematics",
+    icon: "123",
+    color: "from-blue-500 to-cyan-500",
+    description: "Algebra, Geometry, Calculus & more",
+  },
+  {
+    id: "social",
+    name: "Social Studies",
+    icon: "🌍",
+    color: "from-green-500 to-emerald-500",
+    description: "History, Geography & Culture",
+  },
+  {
+    id: "science",
+    name: "Science",
+    icon: "🔬",
+    color: "from-purple-500 to-pink-500",
+    description: "Physics, Chemistry & Biology",
+  },
+  {
+    id: "history",
+    name: "History",
+    icon: "📚",
+    color: "from-amber-500 to-orange-500",
+    description: "Ancient to Modern History",
+  },
+  {
+    id: "english",
+    name: "English",
+    icon: "📖",
+    color: "from-pink-500 to-rose-500",
+    description: "Grammar, Literature & Writing",
+  },
+  {
+    id: "accounts",
+    name: "Accounts",
+    icon: "💼",
+    color: "from-indigo-500 to-blue-500",
+    description: "Accounting Principles",
+  },
+  {
+    id: "commerce",
+    name: "Commerce",
+    icon: "📊",
+    color: "from-teal-500 to-cyan-500",
+    description: "Business & Economics",
+  },
+  {
+    id: "economics",
+    name: "Economics",
+    icon: "💰",
+    color: "from-red-500 to-pink-500",
+    description: "Micro & Macroeconomics",
+  },
+]
